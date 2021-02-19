@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["gh@lukesempire.com"]
 
   spec.summary       = "Write a short summary, because Rubygems requires one."
-  spec.homepage      = "Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/luke2m/watercss-jekyll/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
