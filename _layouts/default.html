@@ -3,8 +3,15 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-{% if site. %}
-  <title>{{ site.title }}</title>
+{% if site.theme == dark %}
+  <link rel="stylesheet" href="assets/dark.css">
+{% elsif site.theme == light %}
+<link rel="stylesheet" href="assets/light.css">
+{% elsif site.theme == auto %}
+<link rel="stylesheet" href="assets/auto.css">
+{% endif %}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ site.title }}</title>
 </head>
   <body>
   {{ content }}
