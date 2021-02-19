@@ -1,35 +1,3 @@
 title: Water.css Jekyll
 description: a simple jekyll theme for github pages
 css: auto
-
-social_links:
-    #twitter: jekkyll
-    github:  luke2m
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-    # GitLab instances
-     gitlab:
-     - username: luke2m
-       instance: github.com
-    # - username: jekyll2
-    #   instance: example.com
