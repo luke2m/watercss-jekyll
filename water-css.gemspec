@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "water-css"
   spec.version       = "0.1.0"
-  spec.authors       = ["luke2m"]
+  spec.authors       = ["Luke Metoki"]
   spec.email         = ["hello@lukesempire.com"]
 
-  spec.summary       = "A simple Jekyll theme for GitHub Pages"
+  spec.summary       = "A simple Jekyll theme for GitHub Pages, using Water.css styling"
   spec.homepage      = "https://github.com/luke2m/watercss-jekyll/"
   spec.license       = "MIT"
 
