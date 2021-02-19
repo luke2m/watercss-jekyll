@@ -1,8 +1,8 @@
 # Water.css Jekyll theme
 
 This is a Jekyll theme for GitHub Pages with simple styling from [Water.css](https://watercss.kognise.dev)
-## Once this theme is finished and published, the below will apply.
-<s> ## Installation
+# Once this theme is finished and published, the below will apply.
+## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
 
@@ -23,7 +23,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install water-css
-    </s>
 
 ## Usage
 
