@@ -4,9 +4,9 @@ Gem::Specification.new do |spec|
   spec.name          = "water-css"
   spec.version       = "0.1.0"
   spec.authors       = ["luke2m"]
-  spec.email         = ["gh@lukesempire.com"]
+  spec.email         = ["hello@lukesempire.com"]
 
-  spec.summary       = "Write a short summary, because Rubygems requires one."
+  spec.summary       = "A simple Jekyll theme for GitHub Pages"
   spec.homepage      = "https://github.com/luke2m/watercss-jekyll/"
   spec.license       = "MIT"
 
