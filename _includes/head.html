@@ -3,9 +3,12 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<!-- Styling -->{% if site.css == dark %}
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@latest/out/dark.min.css"> {% elsif site.css == light %}
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@latest/out/light.min.css"> {% else %}
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@latest/out/water.min.css"> {% endif %}
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@latest/out/dark.min.css">
+	{% elsif site.css == light %}
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@latest/out/light.min.css">
+	{% else %}
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@latest/out/water.min.css">
+	{% endif %}
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Primary Meta Tags -->
 	<title>{{ page.title | default: site.title | default: site.github.repository_name }}</title>
