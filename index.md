@@ -23,7 +23,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ### Header 3
 
 ```js
-// Javascript code with syntax highlighting.
+// Javascript code
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
@@ -31,7 +31,7 @@ var fun = function lang(l) {
 ```
 
 ```ruby
-# Ruby code with syntax highlighting
+# Ruby code
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
