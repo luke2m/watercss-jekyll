@@ -1,14 +1,14 @@
 # Title for your page
-title: Put Your Title Here
+title: Water.css Jekyll theme
 
 # Description for your page
-description: "A Great Project has a lot of description needed"
+description: "A simple theme for quick documentation, great for GitHub Pages"
 
 # Theme -- dark light or auto
 css: auto
 
 # Show downloads links -- True or false 
-show_downloads: true
+show_downloads: false
 
 # Not using GitHub? Change this.
 git_provider: GitHub
@@ -17,4 +17,4 @@ git_provider: GitHub
 #download_url: "https://example.com"
 
 #Goatcounter Tracking Code
-#goatcounter: myproject
+goatcounter: jekylltheme
