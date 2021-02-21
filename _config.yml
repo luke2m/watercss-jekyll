@@ -10,8 +10,8 @@ css: auto
 # Show downloads links -- True or false 
 show_downloads: true
 
-# Not using GitHub? 
-#git_provider: GitLab
+# Not using GitHub? Change this.
+git_provider: GitHub
 
 #Different Download link?
 #download_url: "https://example.com"
