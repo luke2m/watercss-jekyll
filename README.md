@@ -24,7 +24,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/luke2m
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 ## TODO
-- [ ] Customize or disable download buttons
+- [x] Customize or disable download and code buttons
 - [ ] Make easier for non-github users
 - [ ] Publish Ruby Gem
 - [ ] Make version for personal sites/blogs
