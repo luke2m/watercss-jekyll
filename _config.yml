@@ -1,3 +1,18 @@
+# Title for your page
 title: Put A Title Here
-description: a nice description or tagline
+
+# Description for your page
+description: "a nice description or tagline"
+
+# Theme -- dark light or auto
 css: auto
+
+# Show downloads links -- True or false 
+show_downloads: true
+
+# Not using GitHub? 
+#git_provider: GitLab
+
+#Different Download link?
+#download_url: "https://example.com"
+
