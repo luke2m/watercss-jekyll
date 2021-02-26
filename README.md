@@ -1,6 +1,6 @@
 # Water.css Jekyll theme (Work in Progress)
 
-This is a Jekyll theme for GitHub Pages with simple styling from [Water.css](https://watercss.kognise.dev)
+This is a Jekyll theme with simple styling from [Water.css](https://watercss.kognise.dev)
 ## Installation
 ### GitHub Pages
 Add this line to your `_config.yml`. You can also fork this repo.
