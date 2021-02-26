@@ -6,7 +6,7 @@ This is a Jekyll theme for GitHub Pages with simple styling from [Water.css](htt
 Add this line to your `_config.yml`. You can also fork this repo.
 
 ```yaml
-remote-theme: "luke2m/watercss-jekyll@0.1.0"
+remote-theme: "luke2m/watercss-jekyll@latest"
 ```
 ### Other platforms (Self hosted, Netlify, GitLab Pages, etc.
 Add this line to your Jekyll site's `Gemfile`:
