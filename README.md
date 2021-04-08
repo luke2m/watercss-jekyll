@@ -1,6 +1,6 @@
 # Water.css Jekyll theme
 
-This is a Jekyll theme with simple styling from [Water.css](https://watercss.kognise.dev)
+This is a Jekyll theme with simple styling from [Water.css](https://watercss.kognise.dev) A demo is [here](https://luke2m.github.io/watercss-jekyll/demo.html)
 ## Installation
 ### GitHub Pages
 Add this line to your `_config.yml`. You can also fork this repo.
