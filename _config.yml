@@ -2,19 +2,19 @@
 title: Put Your Title Here
 
 # Description for your page
-description: "A Great Project has a lot of description needed"
+description: "Your Title Here is a blah blah blah"
 
 # Theme -- dark light or auto
 css: auto
 
-# Show downloads links -- True or false 
+# Show downloads links -- true or false 
 show_downloads: true
 
-# Not using GitHub? Change this.
+# Not using GitHub? Change this value to what you want it to say.
 git_provider: GitHub
 
-#Different Download link?
-#download_url: "https://example.com"
+# Different Download link?
+# download_url: "https://example.com"
 
-#Goatcounter Tracking Code
-#goatcounter: myproject
+# Goatcounter site code
+# goatcounter: myproject
