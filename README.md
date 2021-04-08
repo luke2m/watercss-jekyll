@@ -1,4 +1,4 @@
-# Water.css Jekyll theme (Work in Progress)
+# Water.css Jekyll theme
 
 This is a Jekyll theme with simple styling from [Water.css](https://watercss.kognise.dev)
 ## Installation
