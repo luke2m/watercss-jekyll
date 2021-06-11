@@ -1,6 +1,6 @@
 # Water.css Jekyll theme
 
-This is a Jekyll theme with simple styling from [Water.css](https://watercss.kognise.dev) A demo is [here](https://luke2m.github.io/watercss-jekyll/demo.html)
+This is a Jekyll theme with simple styling from [Water.css](https://watercss.kognise.dev) A demo is [here](https://luke2m.github.io/watercss-jekyll/demo.html).
 ## Installation
 ### GitHub Pages
 Add this line to your `_config.yml`. You can also fork this repo.
@@ -8,7 +8,7 @@ Add this line to your `_config.yml`. You can also fork this repo.
 ```yaml
 remote-theme: "luke2m/watercss-jekyll@latest"
 ```
-### Other platforms (Self hosted, Netlify, GitLab Pages, etc.
+### Other platforms (Self hosted, Netlify, GitLab Pages, etc.)
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
@@ -51,7 +51,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/luke2m
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 ## TODO
 - [x] Customize or disable download and code buttons
-- [ ] Make easier for non-github users
+- [x] Make easier for non-github users
 - [x] Publish Ruby Gem
 - [ ] Make version for personal sites/blogs
 
